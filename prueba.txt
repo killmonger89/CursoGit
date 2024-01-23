@@ -7,4 +7,3 @@ es  nuevo año 2024.
 tengo 34 años
 comenzando con git 
 git show agregado 
-commit de prueba
