@@ -6,3 +6,4 @@ Soy locochon
 es 2024.
 tengo 34 años
 comenzando con git 
+git show agregado 
