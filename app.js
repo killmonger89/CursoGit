@@ -76,7 +76,7 @@ axios.post('http://localhost:3000/generar-token', {
       { materialId: '007', precio: 100.00 },
     ];
 
-    // Insertar valores iniciales en la base de datos xxxx
+    // Insertar valores iniciales en la base de datos 
 Prestamo.insertMany(valoresInicialesPrestamos, (err) => {
   if (err) {
     console.error('Error al insertar valores iniciales de préstamos:', err);
